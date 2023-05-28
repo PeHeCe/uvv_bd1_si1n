@@ -10,7 +10,7 @@ Este é um projeto realizado para conhecimento da linguagem SQL do postgresSQL.
 
 ## Uso
 
-O script foi criado para funcionar no postgresSQL, pode funcionar em linhas de comando, desde que seja feito corretamente.
+O script foi criado para funcionar no postgresSQL, pode funcionar em linhas de comando, desde que seja feito corretamente. Para ultilizá-lo no terminal ultilize o comando: PGPASSWORD=computacao@raiz psql -U postgres < si1n_202205054_postgresql.sql;  
 
 ## Contato
 
