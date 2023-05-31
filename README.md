@@ -2,7 +2,7 @@
 
 * **Nome do Aluno:** Pedro Henrique Cebin
 * **Professor:** Abrantes Araujo Silva Filho
-* **Monitor(a):** 
+* **Monitor(a):** Suelen Miranda
 
 ## Descrição Geral
 
