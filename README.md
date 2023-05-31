@@ -6,7 +6,7 @@
 
 ## Descrição Geral
 
-Este é um projeto realizado para conhecimento da linguagem SQL do postgresSQL.
+Este é um projeto realizado para adquirir conhecimento da linguagem SQL do postgresSQL.
 
 ## Uso
 
